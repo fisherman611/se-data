@@ -4,6 +4,58 @@ from transformers import AutoModelForSequenceClassification, AutoTokenizer
 import numpy as np
 from scipy.special import expit
 from tqdm.auto import tqdm
+import spacy
+from underthesea import pos_tag, word_tokenize
+
+# Load spaCy English model
+nlp_eng = spacy.load("en_core_web_sm")
+
+
+def process_sentence(sentence: str, lang: str = 'en') -> str:
+    """
+    Processes a sentence so that:
+      - The first word of the sentence is capitalized (if it's not a proper noun),
+      - All proper nouns are fully uppercased.
+      
+    For English, spaCy is used; for Vietnamese, Underthesea is used.
+    
+    Args:
+        sentence (str): The input sentence.
+        lang (str): Language code ('en' for English, 'vi' for Vietnamese).
+        
+    Returns:
+        str: The processed sentence.
+    """
+    if lang == 'en':
+        # Use spaCy for English
+        doc = nlp_eng(sentence)
+        tokens = []
+        for i, token in enumerate(doc):
+            text = token.text
+            if token.pos_ == "PROPN":
+                text = text.upper()
+            if i == 0 and token.pos_ != "PROPN":
+                text = text.capitalize()
+            tokens.append(text + token.whitespace_)
+        return "".join(tokens)
+    elif lang == 'vi':
+        # Use Underthesea for Vietnamese processing.
+        # Underthesea's pos_tag returns a list of tuples (word, tag).
+        # Typically, proper nouns are tagged with "Np".
+        tagged = pos_tag(sentence)
+        tokens = []
+        for i, (word, tag) in enumerate(tagged):
+            new_word = word
+            if tag == "Np":
+                new_word = word.upper()
+            if i == 0 and tag != "Np":
+                new_word = word.capitalize()
+            tokens.append(new_word)
+        # Vietnamese is typically space-separated; we join tokens by spaces.
+        return " ".join(tokens)
+    else:
+        raise ValueError(f"Unsupported language: {lang}")
+
 
 # Load the sentences and convert splits to DataFrames
 ds = load_dataset("HoangVuSnape/vi_en_translation_small")
@@ -14,9 +66,13 @@ test = ds["test"].to_pandas()
 # Concatenate splits and reset index
 sentences = pd.concat([train, valid, test])
 sentences.reset_index(drop=True, inplace=True)
-sentences.rename(columns={"English:": "eng", "Vietnamese": 'viet'}, inplace=True)
+sentences.rename(columns={
+    "English": "eng",
+    "Vietnamese": "viet"
+},
+                 inplace=True)
 
-# Load the model and tokenizer
+# Load the model and tokenizer for topic classification
 MODEL = "cardiffnlp/tweet-topic-21-multi"
 tokenizer = AutoTokenizer.from_pretrained(MODEL)
 model = AutoModelForSequenceClassification.from_pretrained(MODEL)
@@ -26,39 +82,44 @@ class_mapping = model.config.id2label
 BATCH_SIZE = 32
 topics = []
 
-# Process the 'English' column in batches with tqdm progress bar.
+# Process the 'eng' column in batches with tqdm progress bar.
 for i in tqdm(range(0, len(sentences), BATCH_SIZE), desc="Classifying topics"):
-    batch_texts = sentences['English'].iloc[i:i + BATCH_SIZE].tolist()
-    # Tokenize the batch with padding and truncation
-    tokens = tokenizer(batch_texts, return_tensors='pt', padding=True, truncation=True)
-    output = model(**tokens)
-    # Get model logits and apply the sigmoid function for scores
+    batch_texts = sentences['eng'].iloc[i:i + BATCH_SIZE].tolist()
+    tokens_batch = tokenizer(batch_texts,
+                             return_tensors='pt',
+                             padding=True,
+                             truncation=True)
+    output = model(**tokens_batch)
     logits = output.logits.detach().numpy()
     scores = expit(logits)
-    # Process predictions for each sentence in the batch
     for row_scores in scores:
         prediction_id = int(np.argmax(row_scores))
         prediction_score = float(np.max(row_scores))
         if prediction_score < 0.5:
             topics.append(None)
         else:
-            topics.append(class_mapping[prediction_id].replace("_", " ").title())
+            topics.append(class_mapping[prediction_id].replace("_",
+                                                               " ").title())
 
-# Add the predicted topics as a new column in the sentences
+# Add the predicted topics as a new column in the DataFrame
 sentences['topic_name'] = topics
-
-# Drop rows where topic is None
 sentences = sentences.dropna(subset=['topic_name'])
-
-# Insert a new column 's_id' at the beginning with sequential IDs
 sentences.insert(0, "s_id", range(1, len(sentences) + 1))
 
-# Save the resulting DataFrame to a CSV file without the default index
+# Process English and Vietnamese sentences using the merged function
+sentences['eng'] = sentences['eng'].apply(
+    lambda x: process_sentence(x, lang='en'))
+sentences['viet'] = sentences['viet'].apply(
+    lambda x: process_sentence(x, lang='vi'))
+
+# Save the resulting DataFrame to a CSV file
 sentences.to_csv("data/sentences.csv", index=False)
 
-# Save the topic to a CSV file 
-topics = pd.DataFrame(class_mapping.items(), columns=['topic_id', 'topic_name'])
-topics['topic_name'] = topics['topic_name'].apply(lambda x: x.replace("_", " ").title())
+# Process and save the topic mapping
+topics_df = pd.DataFrame(class_mapping.items(),
+                         columns=['topic_id', 'topic_name'])
+topics_df['topic_name'] = topics_df['topic_name'].apply(
+    lambda x: x.replace("_", " ").title())
 
 descriptions = [
     "Discover the language of creativity and expression through topics on literature, visual arts, music, and cultural traditions. Deepen your understanding while learning vocabulary that brings art and culture to life.",
@@ -81,6 +142,6 @@ descriptions = [
     "Equip yourself with essential travel phrases and vocabulary for booking trips, exploring new places, and describing local experiences. Perfect for adventurers planning their next journey.",
     "Connect with language that reflects the energy and experiences of young learners and students. Topics include campus life, student culture, and the challenges and joys of youth."
 ]
-topics['description'] = descriptions
+topics_df['description'] = descriptions
 
-topics.to_csv("data/topics.csv", index=False)
+topics_df.to_csv("data/topics.csv", index=False)
