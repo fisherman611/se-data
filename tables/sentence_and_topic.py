@@ -121,6 +121,8 @@ topics_df = pd.DataFrame(class_mapping.items(),
 topics_df['topic_name'] = topics_df['topic_name'].apply(
     lambda x: x.replace("_", " ").title())
 
+topics_df["topic_id"] = topics_df["topic_id"] + 1
+
 descriptions = [
     "Discover the language of creativity and expression through topics on literature, visual arts, music, and cultural traditions. Deepen your understanding while learning vocabulary that brings art and culture to life.",
     "Learn the key terms and phrases used in the professional world—from meetings and negotiations to startup lingo. Perfect for aspiring professionals and entrepreneurs eager to navigate international business communications.",
