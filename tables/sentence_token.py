@@ -83,5 +83,5 @@ sentence_token_df = pd.DataFrame(token_rows, columns=["token_id", "s_id", "langu
 # --------------------
 # Step 3: Save Output
 # --------------------
-sentence_token_df.to_csv("data/sentence_token.csv", index=False)
+sentence_token_df.to_csv("data/sentence_tokens.csv", index=False)
 print("sentence_token.csv has been created successfully!")
