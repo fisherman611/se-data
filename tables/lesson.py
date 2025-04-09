@@ -14,6 +14,6 @@ for i in range(len(topics)):
 lesson_df = pd.DataFrame(lesson_data)
 
 # Save the DataFrame to a CSV file
-lesson_df.to_csv('data/lesson.csv', index=False)
+lesson_df.to_csv('data/lessons.csv', index=False)
 
 print("Lesson table has been created successfully!")
