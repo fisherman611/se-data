@@ -35,7 +35,7 @@ def process_sentence(sentence: str, lang: str = 'en') -> str:
             if token.pos_ == "PROPN":
                 text = text.upper()
             if i == 0 and token.pos_ != "PROPN":
-                text = text.capitalize()
+                text = text.lower().capitalize()
             tokens.append(text + token.whitespace_)
         return "".join(tokens)
     elif lang == 'vi':
@@ -49,7 +49,7 @@ def process_sentence(sentence: str, lang: str = 'en') -> str:
             if tag == "Np":
                 new_word = word.upper()
             if i == 0 and tag != "Np":
-                new_word = word.capitalize()
+                new_word = word.lower().capitalize()
             tokens.append(new_word)
         # Vietnamese is typically space-separated; we join tokens by spaces.
         return " ".join(tokens)
