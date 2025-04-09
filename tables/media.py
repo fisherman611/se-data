@@ -32,11 +32,11 @@ for i in tqdm(range(1, len(sentences) + 1), desc="Converting English sentences")
     time.sleep(1.5)  # Pause between requests
 
 # Convert Vietnamese sentences to audio files using tqdm for progress tracking
-# for i in tqdm(range(1, len(sentences) + 1), desc="Converting Vietnamese sentences"):
-#     text = sentences.iloc[i]["viet"]
-#     output_filename = f"data/media/vietnamese/viet_{i}.mp3"
-#     try:
-#         text_to_speech(text, output_filename, lang="vi")
-#     except Exception as e:
-#         print(f"Error processing Vietnamese sentence {i}: {e}")
-#     time.sleep(1.5)  # Pause between requests
+for i in tqdm(range(1, len(sentences) + 1), desc="Converting Vietnamese sentences"):
+    text = sentences.iloc[i]["viet"]
+    output_filename = f"data/media/vietnamese/viet_{i}.mp3"
+    try:
+        text_to_speech(text, output_filename, lang="vi")
+    except Exception as e:
+        print(f"Error processing Vietnamese sentence {i}: {e}")
+    time.sleep(1.5)  # Pause between requests
