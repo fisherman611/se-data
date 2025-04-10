@@ -5,9 +5,11 @@ from datetime import datetime, timedelta
 users = pd.read_csv('data/users.csv')
 lessons = pd.read_csv('data/lessons.csv')
 topics = pd.read_csv('data/topics.csv')
+lessons = lessons.drop_duplicates(subset=['topic_id', 'lesson_id'])
+lessons = lessons[['topic_id', 'lesson_id']]
+lessons = lessons.reset_index(drop=True)
 
 progress_data = []
-
 for user_id in users['u_id']:
     for i in range(len(lessons)):
         score = round(random.uniform(0, 10000))
