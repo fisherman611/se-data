@@ -9,16 +9,17 @@ lesson_data = []
 for i in range(len(topics)):
     selected_sentences = sentences[sentences['topic_name'] == topics['topic_name'][i]]['s_id'].to_list()
     for j in range(5):
-        lesson_data.append({
-            'topic_id': topics['topic_id'][i],
-            'lesson_id': j + 1,
-            'lesson_type': lesson_types[j],
-        })
+        for s_id in random.sample(selected_sentences, min(2, len(selected_sentences))):
+            lesson_data.append({
+                'topic_id': topics['topic_id'][i],
+                'lesson_id': j + 1,
+                's_id': s_id
+            })
 
 # Create a DataFrame from the lesson data
 lesson_df = pd.DataFrame(lesson_data)
 
 # Save the DataFrame to a CSV file
-lesson_df.to_csv('data/lessons.csv', index=False)
+lesson_df.to_csv('data/lessons_sentences.csv', index=False)
 
 print("Lesson table has been created successfully!")
