@@ -86,7 +86,7 @@ def load_or_create_embeddings(sentences):
     return embeddings
 
 # Load PhoBERT
-tokenizer = AutoTokenizer.from_pretrained("vinai/phobert-base")
+tokenizer = AutoTokenizer.from_pretrained("vinai/phobert-base", use_fast=True)
 model = AutoModel.from_pretrained("vinai/phobert-base")
 
 # Load stopwords
