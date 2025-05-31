@@ -95,7 +95,7 @@ public class UserGenerator {
         return start.plusSeconds(randomSeconds);
     }
 
-    // Encryption methods
+    // Encryption and decryption methods
     private static byte[] generateSalt() {
         byte[] salt = new byte[16];
         random.nextBytes(salt);
@@ -130,6 +130,28 @@ public class UserGenerator {
         return Base64.getEncoder().encodeToString(salt) + ":" +
                Base64.getEncoder().encodeToString(iv) + ":" +
                encrypted;
+    }
+
+    private static String decryptPassword(String encryptedPassword) throws Exception {
+        // Split the stored password into salt, IV, and encrypted data
+        String[] parts = encryptedPassword.split(":");
+        if (parts.length != 3) {
+            throw new IllegalArgumentException("Invalid encrypted password format");
+        }
+
+        byte[] salt = Base64.getDecoder().decode(parts[0]);
+        byte[] iv = Base64.getDecoder().decode(parts[1]);
+        byte[] encrypted = Base64.getDecoder().decode(parts[2]);
+
+        // Derive the key using the same secret password and salt
+        SecretKey key = deriveKey(SECRET_PASSWORD, salt);
+
+        // Decrypt
+        Cipher cipher = Cipher.getInstance("AES/CBC/PKCS5Padding");
+        cipher.init(Cipher.DECRYPT_MODE, key, new IvParameterSpec(iv));
+        byte[] decrypted = cipher.doFinal(encrypted);
+
+        return new String(decrypted);
     }
 
     // Generate a single user
@@ -215,6 +237,15 @@ public class UserGenerator {
             } catch (IOException e) {
                 System.err.println("Error writing CSV: " + e.getMessage());
             }
+
+            // Example: Test encryption and decryption with the first user
+            if (!users.isEmpty()) {
+                User firstUser = users.get(0);
+                System.out.println("Testing decryption for user: " + firstUser.username);
+                String decryptedPassword = decryptPassword(firstUser.password);
+                System.out.println("Decrypted Password: " + decryptedPassword);
+            }
+
         } catch (Exception e) {
             System.err.println("Error generating users: " + e.getMessage());
         }
