@@ -9,7 +9,7 @@ lesson_data = []
 for i in range(len(topics)):
     selected_sentences = sentences[sentences['topic_name'] == topics['topic_name'][i]]['s_id'].to_list()
     for j in range(5):
-        for s_id in random.sample(selected_sentences, min(2, len(selected_sentences))):
+        for s_id in selected_sentences[:10]:
             lesson_data.append({
                 'topic_id': topics['topic_id'][i],
                 'lesson_id': j + 1,
