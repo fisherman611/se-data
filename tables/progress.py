@@ -10,20 +10,23 @@ lessons = lessons[['topic_id', 'lesson_id']]
 lessons = lessons.reset_index(drop=True)
 
 progress_data = []
+in_progress_scores = [1000, 2000, 3000, 4000, 5000, 6000, 7000, 8000, 9000]
+
 for user_id in users['u_id']:
     for i in range(len(lessons)):
-        score = round(random.uniform(0, 10000))
-        if score < 1000:
-            score = 0
-        elif score > 9000:
-            score = 10000
+        # Generate random score trigger
+        score_trigger = random.uniform(0, 10000)
         
-        if score == 0:
+        # Assign score and status based on trigger
+        if score_trigger < 1000:
+            score = 0
             status = 'Not Started'
-        elif score < 10000:
-            status = 'In Progress'
-        else:
+        elif score_trigger > 9000:
+            score = 10000
             status = 'Completed'
+        else:
+            score = random.choice(in_progress_scores)
+            status = 'In Progress'
         
         last_updated = datetime.now() - timedelta(days=random.randint(0, 365))
         
