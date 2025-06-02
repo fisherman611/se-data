@@ -151,7 +151,7 @@ for _, row in tqdm(sentences_df.iterrows(), total=len(sentences_df), desc="Proce
         
         # Translate the word (assuming a translator object exists)
         try:
-            eng = translator.translate(word_for_translation)
+            eng = translator.translate(word_for_translation).lower()
         except Exception as e:
             eng = "translation_error"
             print(f"Translation error for word '{word_for_translation}': {e}")
