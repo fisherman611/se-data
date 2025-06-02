@@ -1,191 +1,375 @@
 s_id,viet,eng,topic
-287,Cô ấy vẽ một vòng tròn trên một tờ giấy bằng bút chì,She drew a circle on a piece of paper with a pencil,Arts & Culture
-418,"Alice , không biết tìm cuốn sách ở đâu , hỏi mẹ nó ở đâu .","Alice, not knowing where to find the book, asked her mother where it was.",Arts & Culture
-423,Ông bắt chước các tác phẩm của van gogh .,He imitated the works of Van Gogh.,Arts & Culture
-586,Làm xiếc vẫn có chương trình kỳ dị ?,Do circuses still have freak shows?,Arts & Culture
-678,Tôi viết những bài thơ trong thời gian rảnh,I write poems in my free time.,Arts & Culture
-923,Cô ấy đã viết cuốn sách với rất ít nỗ lực,She wrote the book with very little effort,Arts & Culture
-938,Ông sở hữu nhiều bức tranh có giá trị,He owns many valuable paintings,Arts & Culture
+4473,Tôi cảm ơn anh ấy đã cho tôi mượn một cuốn sách,I thanked him for lending me a book,Arts & Culture
+9767,Bạn có thấy bức chân dung không ?,Do you see the portrait?,Arts & Culture
 1069,Anh ấy đang vẽ phác họa một quả táo,He's drawing a sketch of an apple,Arts & Culture
+8259,Tôi không bao giờ đến kyoto mà không ghé thăm ngôi đền nanzenji .,I never go to Kyoto without visiting the Nanzenji Temple.,Arts & Culture
+2795,Giáo hoàng xuất hiện trong chiếc áo choàng màu đỏ của mình,The pope appeared in his red robe,Arts & Culture
+10009,Cuốn sách có sẵn ở cả phiên bản bìa cứng và mềm,The book is available in both hard and soft-cover versions,Arts & Culture
+7000,Cuốn sách này được viết bằng tiếng Anh,This book is written in English,Arts & Culture
+2506,Từ điển được sử dụng để tra cứu những từ bạn không biết,Dictionaries are used to look up the words you don't know,Arts & Culture
+7543,Chúng tôi có nhiều lựa chọn về sách,We have a wide choice of books,Arts & Culture
+7487,Bạn có thể sử dụng thư viện của anh ấy,You may use his library,Arts & Culture
+2864,Bức chân dung này lớn gần bằng cuộc sống,This portrait is nearly as large as life,Arts & Culture
+10782,"Trong số các nhạc cụ gió , thổ dân didgeridoo làm từ bạch đàn là sở thích của ông","Among the wind instruments, the aboriginal didgeridoo made of eucalyptus was his favorite",Arts & Culture
+3526,Tôi thấy cuốn sách nhàm chán .,I found the book boring.,Arts & Culture
+5410,Tại sao bạn muốn thế giới biết về khu vườn Nhật bản ?,Why do you want the world to know about Japanese gardens?,Arts & Culture
 1135,Bạn đã tự vẽ cái này à ?,Did you draw this yourself?,Arts & Culture
-1401,Bức tranh đang xấu đi,The painting is deteriorating.,Arts & Culture
-49,Ceo được trả tiền trong các lựa chọn cổ phiếu,The Ceo got paid in stock options,Business & Entrepreneurs
-69,Cửa hàng mới sẽ mở vào tuần tới .,The new store is going to open next week.,Business & Entrepreneurs
-116,Bạn có đủ điều kiện để trở thành bác sĩ,You are qualified to be a doctor,Business & Entrepreneurs
-166,Công việc của bạn là vĩnh viễn ?,Is your job permanent?,Business & Entrepreneurs
-187,Anh ta chỉ là một người đàn ông cực đoan,He's just a diehard company man,Business & Entrepreneurs
-214,Anh ấy đã giúp tôi kinh doanh,He assisted me with my business,Business & Entrepreneurs
-249,Tom có ba triệu đô la trong ngân hàng,Tom has three million dollars in the bank,Business & Entrepreneurs
-362,Đó là một sự thúc đẩy mua,It was an impulse buy.,Business & Entrepreneurs
-410,Làm thế nào bạn đến bằng tiền ?,How did you come by the money?,Business & Entrepreneurs
-446,Nhiều đánh giá của người tiêu dùng trên amazon là giả mạo .,Many consumer reviews on Amazon are fake.,Business & Entrepreneurs
-161,Họ có nói gì về những gì tom đã làm không ?,Did they say anything about what Tom did?,Celebrity & Pop Culture
-167,Tom biết rằng mary rất giàu .,Tom knew that Mary was rich.,Celebrity & Pop Culture
-383,Nó giống như meg để hành động theo cách đó .,It's just like Meg to act that way.,Celebrity & Pop Culture
-391,Tom cứu mạng bạn,Tom saved your life,Celebrity & Pop Culture
-443,Bạn sẽ khó nhận ra tom vào lần tới khi bạn gặp anh ấy,You'll hardly recognize Tom the next time you see him,Celebrity & Pop Culture
-506,Jessie khen ngợi charles vì tầm nhìn xa của mình,Jessie praised Charles for his foresight,Celebrity & Pop Culture
-703,Tom muốn trở thành một vũ công ba lê .,Tom wants to become a ballet dancer.,Celebrity & Pop Culture
-792,Tom đã chia tay với mary .,Tom broke off his engagement to Mary.,Celebrity & Pop Culture
-1088,Tom không nói anh ta định làm gì .,Tom didn't say what he was planning to do.,Celebrity & Pop Culture
-1207,Tom ở lại với chúng tôi .,Tom stays with us.,Celebrity & Pop Culture
-1,Đến và gặp tôi bất cứ lúc nào bạn muốn,Come and see me anytime you want to,Diaries & Daily Life
-2,Một lời khích lệ trong một thất bại có giá trị hơn một giờ khen ngợi sau thành công,A word of encouragement during a failure is worth more than an hour of praise after success,Diaries & Daily Life
-4,Tôi không thấy những gì phải làm với điều này .,I don't see what that has to do with this.,Diaries & Daily Life
-8,Tôi đã có một ý kiến tốt về cô ấy,I had a good opinion of her,Diaries & Daily Life
-10,Tôi cần bạn nói với tôi khi bạn có kế hoạch đến,I need you to tell me when you plan to arrive,Diaries & Daily Life
-12,Sức chứa của thang máy này là mười người .,This elevator's capacity is ten people.,Diaries & Daily Life
-16,Đó là bởi vì anh ta độc ác mà tôi không thích anh ta .,It is because he is cruel that I dislike him.,Diaries & Daily Life
-20,Jane thích chó hơn mèo,Jane prefers dogs to cats,Diaries & Daily Life
-21,Xe buýt của chúng tôi đến sớm một chút .,Our bus arrived a little early.,Diaries & Daily Life
-22,Tôi nghĩ tôi đã ngủ,I think I fell asleep,Diaries & Daily Life
-23,Cha anh mất năm ngoái .,His father died last year.,Family
-345,Bố tôi bận rộn hơn bao giờ hết .,My father is as busy as ever.,Family
-442,Bố bạn thế nào ?,How is your father?,Family
-529,"Cha mẹ , thay vì con cái , là để đổ lỗi","The parents, rather than the children, are to blame",Family
-622,Mười năm đã trôi qua kể từ khi cha tôi qua đời,Ten years have gone by since my father died,Family
-624,Vợ của con trai bạn là con dâu của bạn,The wife of your son is your daughter-in-law,Family
-683,Tôi yêu những giai thoại của ông tôi,I love my grandfather's anecdotes,Family
-739,Cha tôi là một người dậy sớm .,My father is an early riser.,Family
-766,Bà tôi đã bị ốm một tuần khi tôi đến thăm bà,My grandmother had been sick for a week when I visited her,Family
+923,Cô ấy đã viết cuốn sách với rất ít nỗ lực,She wrote the book with very little effort,Arts & Culture
+10404,Tôi muốn bạn dịch cuốn sách này sang tiếng Anh,I'd like you to translate this book into English,Arts & Culture
+5130,Có những lúc mary ngồi yên hàng giờ và nhìn ra biển,There are times when Mary sits still for hours and looks at the sea,Arts & Culture
+3173,Đưa cuốn sách này cho ramu,Give this book to Ramu,Arts & Culture
+3199,Lần đầu tiên cô tiếp xúc với văn hóa Nhật bản vào năm ngoái,She first came into contact with Japanese culture last year,Arts & Culture
+4113,"Nếu bạn thực sự muốn kiếm nhiều tiền , tôi có thể cho bạn biết làm thế nào","If you really want to make a lot of money, I can tell you how",Business & Entrepreneurs
+5454,Công ty của tom đã được công khai .,Tom's company went public.,Business & Entrepreneurs
+6058,Đồng hồ của tôi cần phải được sửa chữa .,My watch needs to be repaired.,Business & Entrepreneurs
+1730,Giá đã ổn định trong ba năm qua .,Prices have been stable for the past three years.,Business & Entrepreneurs
+8789,Ngân hàng đó đã được tổ chức hai lần,That bank was held up twice,Business & Entrepreneurs
+4343,"Tom có tiền . Tuy nhiên , anh ấy không hạnh phúc .","Tom has money. However, he's not all that happy.",Business & Entrepreneurs
+874,Chúng ta thiếu tiền,We've run short of money.,Business & Entrepreneurs
+8978,Anh ta có nhiều tiền hơn số tiền anh ta có thể chi tiêu,He has more money than he can spend,Business & Entrepreneurs
+8182,Bạn có bao nhiêu trong ngân hàng,How much do you have in the bank?,Business & Entrepreneurs
+6280,Bạn đã bán được bao nhiêu máy kéo tuần trước ?,How many tractors did you sell last week?,Business & Entrepreneurs
+5292,Đó là việc của anh ấy,That's his business,Business & Entrepreneurs
+1390,Đầu trang xuất khẩu sang Trung quốc là đậu nành,The top U.s. export to China was soybeans,Business & Entrepreneurs
+5628,Tom lập một trang web cho mary,Tom set up a website for Mary,Business & Entrepreneurs
+740,Xin vui lòng hủy đơn hàng của chúng tôi .,Please cancel our order.,Business & Entrepreneurs
+3881,Anh ấy muốn làm việc trong một nhà máy,He wants to work in a factory.,Business & Entrepreneurs
+882,Ông là một nhà phân tích tài chính có danh tiếng khá tốt để phân tích các xu hướng kinh tế,He's a financial analyst with a pretty good reputation for his analysis of economic trends,Business & Entrepreneurs
+2191,Anh lái một chiếc xe điện .,He drives an electric car.,Business & Entrepreneurs
+3813,Nhà máy này sản xuất phụ tùng ô tô,This factory manufactures automobile parts,Business & Entrepreneurs
+3046,Giá đã tăng đều đặn .,Prices have been climbing steadily.,Business & Entrepreneurs
+1275,Giá đã đạt đến một mức cao mới .,Prices have reached a new high.,Business & Entrepreneurs
+6160,Tom tự giới thiệu .,Tom introduced himself.,Celebrity & Pop Culture
+5496,Tôi nghe nói bạn đã nhận được một giải thưởng vào tháng trước,I heard you received an award last month,Celebrity & Pop Culture
+1284,"Không chỉ con trai ông , mà con gái ông cũng nổi tiếng .","Not only his son, but his daughter is famous as well.",Celebrity & Pop Culture
+9612,Tôi không biết tom là một người nghiện ma túy,I didn't know Tom was a drug addict,Celebrity & Pop Culture
+7561,Tôi muốn bạn trở lại trong một mảnh .,I want you back in one piece.,Celebrity & Pop Culture
+3397,Tôi đã thấy tom ở đây trước đây,I've seen Tom here before,Celebrity & Pop Culture
+6832,Tom đang chuyển sang màu trắng .,Tom is turning white.,Celebrity & Pop Culture
+8187,Tom thực sự ổn chứ ?,Is Tom really OK?,Celebrity & Pop Culture
+10074,Tôi thấy bạn và tom la hét với nhau ngày hôm qua .,I saw you and Tom yelling at each other yesterday.,Celebrity & Pop Culture
+6258,Lần cuối cùng tôi nhìn thấy tom anh ấy mặc một bộ tuxedo,The last time I saw Tom he was wearing a tuxedo,Celebrity & Pop Culture
+4234,Tom rất vui vì điều gì ?,What's Tom so happy about?,Celebrity & Pop Culture
+3796,Mọi người đều thích Tom .,Everybody likes Tom.,Celebrity & Pop Culture
+7545,Tôi nhớ đã nhìn thấy nữ hoàng,I remember seeing the queen,Celebrity & Pop Culture
+4836,Tom muốn nổi tiếng,Tom wants to be famous,Celebrity & Pop Culture
+9480,Cô ấy chạy rất nhanh để bắt kịp các thành viên khác,She ran very fast to catch up with the other members,Celebrity & Pop Culture
+1710,Tom vẫn còn sống,Tom is still alive,Celebrity & Pop Culture
+1231,"Con số này được cho là đại diện cho marilyn monroe , nhưng tôi không nghĩ rằng đó là công lý của cô ấy","This figure is supposed to represent Marilyn Monroe, but I don't think it does her justice",Celebrity & Pop Culture
+1941,Tom đang ký chữ ký trước nhà hát .,Tom was signing autographs in front of the theater.,Celebrity & Pop Culture
+2810,Tôi muốn nghe điều đó từ tom .,I'd like to hear that from Tom.,Celebrity & Pop Culture
+9352,Ai là d . j . hôm nay ?,Who's the D. J. today?,Celebrity & Pop Culture
+8062,Bạn có thể bơi nhanh như anh ấy có thể ?,Can you swim as fast as he can?,Diaries & Daily Life
+2546,Bạn có lẽ nên nói với tom rằng bạn không muốn làm điều đó .,You should probably tell Tom you don't want to do that.,Diaries & Daily Life
+7803,Bạn không nên đánh giá người khác qua cách họ nhìn .,You shouldn't judge others by how they look.,Diaries & Daily Life
+9465,Tom nói mary nên được hạnh phúc .,Tom says Mary should be happy.,Diaries & Daily Life
+7763,Tom không cảm thấy thích học chút nào,Tom didn't feel like studying at all,Diaries & Daily Life
+7788,Chúng ta nên tiết kiệm một ít bánh cho tom,We should save some cake for Tom,Diaries & Daily Life
+8980,Tom nhảy ra khỏi xe,Tom jumped out of the car,Diaries & Daily Life
+840,Tôi bị kẹt xe .,I'm stuck in a traffic jam.,Diaries & Daily Life
+6820,Tom không thể tìm thấy một .,Tom can't find one.,Diaries & Daily Life
+3181,Tôi cần mua booze cho bữa tiệc .,I need to buy booze for the party.,Diaries & Daily Life
+10705,Một cái gì đó là vấn đề với dạ dày của tôi .,Something is the matter with my stomach.,Diaries & Daily Life
+4897,Bạn có nghĩ tôi gợi cảm không,Do you think I'm sexy?,Diaries & Daily Life
+5465,Tôi có thể làm cho bạn hạnh phúc,I could make you happy,Diaries & Daily Life
+759,Bạn có muốn một chiếc bánh cupcake không ?,Would you like a cupcake?,Diaries & Daily Life
+5088,Tom không quan tâm những gì xảy ra với chiếc xe cũ của mình .,Tom doesn't care what happens to his old car.,Diaries & Daily Life
+5771,Tôi bắt đầu hiểu lý do tại sao bạn không cố gắng giải thích mọi thứ với tom,I'm beginning to understand why you don't bother to try to explain things to Tom,Diaries & Daily Life
+11028,Nói cho tôi biết bạn đã nói gì với tom,Tell me what you told Tom.,Diaries & Daily Life
+8036,"Khi tôi nói tiếng Nhật , tôi nghe như một đứa trẻ .","When I speak Japanese, I sound like a child.",Diaries & Daily Life
+7626,Tôi không muốn điều này xảy ra,I didn't want this to happen.,Diaries & Daily Life
+5580,Thị trấn này khá khác so với mười năm trước .,This town is quite different from what it was ten years ago.,Diaries & Daily Life
+10291,Mang con theo bạn,Bring your children with you,Family
+7903,Thật là tự nhiên khi các thành viên trong gia đình giúp đỡ lẫn nhau,It's natural for family members to help each other,Family
+8912,Anh bỏ vợ con .,He abandoned his wife and children.,Family
 962,Ông phụ trách công việc kinh doanh của gia đình sau khi cha mất .,He took charge of the family business after his father died.,Family
-63,"Mary hỏi tom anh nghĩ gì về chiếc váy của cô , nhưng anh biết rõ hơn là nói cho cô biết anh thực sự nghĩ gì .","Mary asked Tom what he thought of her dress, but he knew better than to tell her what he really thought.",Fashion & Style
-142,Hãy giúp tôi chọn ra một chiếc áo len phù hợp với chiếc váy mới của tôi .,Please help me pick out a sweater which matches my new dress.,Fashion & Style
-229,Cô mua sáu thước vải cho một chiếc váy .,She bought six yards of cloth for a dress.,Fashion & Style
-298,Anh ăn mặc như con gái .,He dressed like a girl.,Fashion & Style
-452,Cô ấy mua giày cho chúng tôi,She buys us shoes,Fashion & Style
-532,Chiếc váy được làm từ một loại vải mỏng .,The dress is made of a thin fabric.,Fashion & Style
-567,Tom thường đeo kính râm mỗi khi ra ngoài,Tom usually wears sunglasses whenever he goes outside,Fashion & Style
-608,Mang cho tôi đôi giày của tôi,Bring me my shoes,Fashion & Style
-718,Những chiếc quần jean rộng thùng thình,These jeans are baggy,Fashion & Style
-889,Chiếc váy màu xanh đó rất hợp với bạn,That blue dress suits you very well,Fashion & Style
-6,Mary là một nữ diễn viên vừa chớm nở .,Mary is a budding actress.,Film Tv & Video
+5420,Ông phụ thuộc vào người chú của mình để được hỗ trợ .,He depended on his uncle for support.,Family
+4984,Anh luôn nhầm em với em gái .,He always mistakes me for my sister.,Family
+5260,Anh ấy là hình ảnh nhổ nước bọt của cha mình .,He is the spitting image of his father.,Family
+9568,Ông bà tôi đang làm gì,What are my grandparents doing?,Family
+3498,Mary đặt tên cho em bé theo bà,Mary named the baby after her grandmother,Family
+6783,Cô ấy ủng hộ gia đình,She supports her family,Family
+10200,Tôi nghe nói cha tôi đã già như tôi bây giờ khi ông đến Tokyo,I hear my father was as old as I am now when he came up to Tokyo,Family
+11034,Tom chăm sóc cho người cha ốm yếu của mình .,Tom cared for his sick father.,Family
+5475,Mike chăm sóc cha mình trong mọi việc,Mike takes after his father in everything,Family
+9677,Xin chào cha mẹ,Please say hello to your parents,Family
+10548,Tôi là con giữa của ba,I'm the middle child of three,Family
+9090,Những đứa trẻ đang ngủ khi ông bà gọi chúng,The children were sleeping when their grandparents called them,Family
+5665,Anh không kiên nhẫn khi thấy con gái,He was impatient to see his daughter,Family
+11050,Đừng nói với cha bạn rằng bạn muốn trở thành một chú hề,Don't tell your father you want to become a clown.,Family
+10303,Cô ấy là bà mẹ đơn thân của hai,She's a single mother of two,Family
+9325,"George , tôi có một cái gì đó để nói với bạn . bạn có mẹ không","George, I have something to tell you. You have a mother, don't you?",Family
+10054,Tôi thực sự không đủ khả năng để mua chiếc váy này,I really can't afford to buy this dress,Fashion & Style
+8357,Tôi có thể thử chiếc áo khoác này không ?,Can I try on this jacket?,Fashion & Style
+4045,Bạn phải giữ cho đôi giày của bạn sạch sẽ,You must keep your shoes clean.,Fashion & Style
+5700,Tại sao bạn không mặc đồng phục ?,Why aren't you in your uniform?,Fashion & Style
+8153,Cô ấy mặc đồ đen,She was dressed all in black,Fashion & Style
+7702,Cả tom và mary đều cần giày mới .,Tom and Mary both need new shoes.,Fashion & Style
+5853,Váy của bạn rất đẹp,Your dress is very nice.,Fashion & Style
+3328,Tôi thực sự thích váy này tôi có thể thử nó không ?,I really like this skirt. Can I try it on?,Fashion & Style
+5348,Tôi nên mặc một chiếc áo sơ mi ngắn tay,I should've worn a short-sleeved shirt,Fashion & Style
+1845,Sự khác biệt giữa một chiếc váy ngắn và microskirt là gì ?,What's the difference between a miniskirt and a microskirt?,Fashion & Style
+10783,Tôi thường mua quần áo của tôi tại cửa hàng bách hóa .,I usually buy my clothes at the department store.,Fashion & Style
+4420,Nước mắt vải này dễ dàng,This cloth tears easily,Fashion & Style
+3821,Tôi không để ý cách cô ấy mặc quần áo .,I did not notice how she was dressed.,Fashion & Style
+7395,Cô mặc một chiếc váy màu xanh trơn .,She wore a plain blue dress.,Fashion & Style
+5087,Chiếc váy này quá lớn đối với tôi .,This dress is too big for me.,Fashion & Style
+10825,Tom không có nhiều quần áo . đó là lý do tại sao bạn luôn thấy anh ấy mặc đồ giống nhau,Tom doesn't have many clothes. That's why you always see him wearing the same thing,Fashion & Style
+3064,Những đôi giày này quá lớn đối với bạn ?,Are these shoes too big for you?,Fashion & Style
+8183,Tom nói anh ấy muốn mua một chiếc áo len màu xanh .,Tom said he wanted to buy a blue sweater.,Fashion & Style
+2954,Cà vạt không đi cùng với bộ đồ của tôi,The tie doesn't go with my suit,Fashion & Style
+4949,Mayuko thiết kế một chiếc váy cho mình .,Mayuko designed a dress for herself.,Fashion & Style
 9,Chúng tôi đã đến nhà hát sớm để có chỗ ngồi tốt,We went to the theater early to get good seats,Film Tv & Video
+768,Tom rất vui nhộn,Tom was hilarious.,Film Tv & Video
+1066,Tôi bảo bạn xem tom cẩn thận .,I told you to watch Tom carefully.,Film Tv & Video
+685,Bạn sẽ đi xem tom ?,Are you going to see Tom?,Film Tv & Video
+7025,Tom đã bị giết ?,Was Tom killed?,Film Tv & Video
+9494,Họ là những diễn viên .,They are actors.,Film Tv & Video
 33,Băng cassette dường như đã nhường chỗ cho các đĩa compact phổ biến,Cassette tapes seem to have given way to compact disks in popularity,Film Tv & Video
-133,Tom của ba mươi .,Tom's thirtyish.,Film Tv & Video
-191,Chương trình này quá hấp dẫn đối với thanh thiếu niên .,This show is too racy for teenagers.,Film Tv & Video
-245,Tất cả họ đổ xô quanh ngôi sao điện ảnh,They all flocked around the movie star,Film Tv & Video
-316,Tôi sẽ làm một video cho bạn,I will make a video for you.,Film Tv & Video
-320,Tom bị điên,Tom was insane.,Film Tv & Video
-331,Tôi muốn thấy tom và mary hòa hợp với nhau .,I'd like to see Tom and Mary get along with each other.,Film Tv & Video
-368,Tôi ghét phần này của bộ phim,I hate this part of the movie.,Film Tv & Video
-32,Bác sĩ đã nói gì ?,What did the doctor say?,Fitness & Health
-75,Chăm sóc da rất quan trọng,Skincare is important.,Fitness & Health
-146,Bạn cần phải đến bác sĩ,You need to get to a doctor.,Fitness & Health
-243,Tom nên đi đến nha sĩ ngày hôm qua,Tom should have gone to the dentist yesterday,Fitness & Health
+7588,Bạn đã xem bộ phim cao bồi trên tv tối qua ?,Did you see the cowboy movie on TV last night?,Film Tv & Video
+6507,Tom sẽ chết .,Tom is going to die.,Film Tv & Video
+1490,Tom ngủ thiếp đi và bỏ lỡ phần cuối của bộ phim .,Tom fell asleep and missed the end of the movie.,Film Tv & Video
+3194,Tôi không thể tin tom đã không nói với chúng tôi về mary .,I can't believe Tom didn't tell us about Mary.,Film Tv & Video
+5076,Tom có linh cảm rằng mary đang nhìn người khác .,Tom had a hunch that Mary was seeing someone else.,Film Tv & Video
+7255,"Nếu tom và mary làm việc cùng nhau , sẽ không có vấn đề gì .","If Tom and Mary work on it together, there shouldn't be any problems.",Film Tv & Video
+7047,Hôm nay chán,Tv's boring today,Film Tv & Video
+9773,Tom muốn xem mary .,Tom wants to see Mary.,Film Tv & Video
+7996,Tôi nghĩ rằng tôi đã xem bộ phim này trước đây .,I think I've seen this movie before.,Film Tv & Video
+8693,Tôi nghĩ rằng họ đã tìm thấy tom .,I thought they found Tom.,Film Tv & Video
+9923,Tom không cho mary xem tv sau 10 : 00 tối,Tom doesn't let Mary watch TV after 10:00 p.m,Film Tv & Video
+4788,Chúng ta hãy đi xem tom ngay,Let's go see Tom now,Film Tv & Video
+8343,Tôi xem phim gần như mỗi ngày,I watch movies almost every day,Film Tv & Video
+10482,Chúng ta nên uống 64 ounce chất lỏng mỗi ngày,We should drink 64 ounces of fluids a day,Fitness & Health
+3370,Bạn ốm . Bạn cần phải nghỉ ngơi .,You're sick. You have to rest.,Fitness & Health
+8773,Chế độ ăn uống của tom dẫn đến giảm cân,Tom's diet resulted in weight loss,Fitness & Health
+8186,Tom đã không dễ dàng đối phó với các vấn đề sức khỏe của mary .,It hasn't been easy for Tom to deal with Mary's health problems.,Fitness & Health
+10999,Hút thuốc lá có hại cho sức khỏe của bạn,Smoking is bad for your health,Fitness & Health
 479,Tập thể dục mạnh mẽ làm cho bạn đổ mồ hôi .,Vigorous exercise makes you sweat.,Fitness & Health
-533,Anh ấy xanh xao vì anh ấy ốm .,He's pale because he's sick.,Fitness & Health
-673,Tom phải phẫu thuật trên lưng .,Tom has to have an operation on his back.,Fitness & Health
+1981,Có phản ứng bất lợi nào không ?,Is there any adverse reaction?,Fitness & Health
+9640,"Nếu bệnh của bạn trở nên tồi tệ hơn , hãy gọi bác sĩ chuyên khoa .","If your illness becomes worse, call in a specialist.",Fitness & Health
+1615,Cánh tay của bạn bị hỏng .,Your arm's broken.,Fitness & Health
+7496,Tôi tự hào là một bác sĩ,I am proud of being a doctor,Fitness & Health
 773,Tom nói với tôi anh ấy đang đi đến phòng tập thể dục .,Tom told me he was going to the gym.,Fitness & Health
-901,Cô ấy sợ bị ốm trở lại .,She's afraid of getting sick again.,Fitness & Health
-906,Uống rượu có hại cho sức khỏe của bạn .,Drinking is harmful for your health.,Fitness & Health
-35,Anh cho tôi trà không đường .,He gave me tea without sugar.,Food & Dining
-80,Tom kiểm tra email của anh ấy trước khi anh ấy ăn sáng,Tom checks his email before he eats breakfast,Food & Dining
-84,Một tách cà phê được pha chế tốt không cần kem hay đường,A well-made cup of coffee should require no cream or sugar,Food & Dining
-126,Cô ấy là một chuyên gia khi nói đến nấu ăn .,She is an expert when it comes to cooking.,Food & Dining
-136,Bạn đã có gì cho bữa ăn trưa ngày hôm nay ?,What did you have for lunch today?,Food & Dining
-174,Tôi đã ăn sáng lúc tám giờ,I ate breakfast at eight,Food & Dining
-200,Họ đưa cho anh một ly nước cam pha với rượu vodka,They gave him a glass of Orange Juice laced with vodka,Food & Dining
-217,Anh mua rau và một ít trái cây .,He bought vegetables and some fruit.,Food & Dining
-223,Tôi dọn bàn ăn .,I cleared the table of the dishes.,Food & Dining
-231,Đây không phải là thức ăn,This isn't food,Food & Dining
-1531,Nhân vật trò chơi video yêu thích của bạn là ai ?,Who's your favorite video game character?,Gaming
-2081,Anh ấy quá yếu để chơi game ngoài trời,He was too frail to play games outdoors,Gaming
-2217,Ông đã vượt lên và vượt ra ngoài nhiệm vụ,He went above and beyond the call of duty,Gaming
+3113,Tôi là một y tá .,I am a nurse.,Fitness & Health
+2496,Vui lòng giải thích cách dùng thuốc,Please explain how to take the medicine,Fitness & Health
+4414,Họ tuyên bố thuốc này là an toàn,They claim this medicine is safe,Fitness & Health
+4611,Tom muốn biết làm thế nào anh ta có thể tăng cân .,Tom wants to know how he can gain weight.,Fitness & Health
+3852,"Nếu bạn bị cảm lạnh , bạn nên nghỉ ngơi nhiều .","If you have a cold, you should get plenty of rest.",Fitness & Health
+5125,Bác sĩ phẫu thuật đã thuyết phục anh ta trải qua một ca cấy ghép nội tạng .,The surgeon persuaded him to undergo an organ transplant.,Fitness & Health
+32,Bác sĩ đã nói gì ?,What did the doctor say?,Fitness & Health
+533,Anh ấy xanh xao vì anh ấy ốm .,He's pale because he's sick.,Fitness & Health
+10327,Bác sĩ khuyên tôi nên uống nhiều sữa .,The doctor advised me to drink more milk.,Fitness & Health
+5675,Bạn có thường ăn cá cho bữa tối không ?,Do you often have fish for dinner?,Food & Dining
+1878,"Vào buổi sáng , Sandra ăn một lát bánh mì và uống một tách cà phê","In the morning, Sandra eats a slice of bread and drinks a cup of coffee",Food & Dining
+4460,Đây là một trong những nơi tốt nhất để ăn trong thị trấn,This is one of the best places to eat in town,Food & Dining
+7677,Tôi có thể ăn gì không ?,May I eat something?,Food & Dining
+1805,Cô rải mật ong dày lên bánh mì nướng của mình .,She spread honey thickly on her toast.,Food & Dining
+6585,Không phải tôi đã ăn miếng bánh cuối cùng,It wasn't me that ate the last piece of cake,Food & Dining
+3278,Tom đặt bát bỏng ngô lên bàn .,Tom put the bowl of popcorn on the table.,Food & Dining
+2172,Mẹ tôi đang ở trong bếp nấu ăn .,My mother is now in the kitchen cooking.,Food & Dining
+10631,Tôi muốn súp gà .,I would like chicken soup.,Food & Dining
+6298,Xin lỗi tôi đã không cố định bữa tối nay . tôi đã quá mệt mỏi,Sorry I haven't fixed dinner tonight. I was so tired there was just no way,Food & Dining
+7887,Tom đến một cửa hàng tiện lợi gần đó để mua đồ ăn,Tom went to a nearby convenience store to buy something to eat,Food & Dining
+7988,Tôi đã ăn quá nhiều,I ate too much,Food & Dining
+9755,"Khi nguồn cung cấp thực phẩm của anh ấy cạn kiệt , anh ấy phải tìm một nơi ở mới","When his food supply ran short, he had to look for a new place to live",Food & Dining
+1746,Tom rót cho mình một phát súng khác của bourbon,Tom poured himself another shot of bourbon,Food & Dining
+6268,"Nấm đang vào mùa , vì vậy chúng rẻ","Mushrooms are in season now, so they are cheap",Food & Dining
+4315,Tôi đã có một số brownies .,I've got some brownies.,Food & Dining
+6952,Tom đang khuấy cà phê,Tom is stirring his coffee,Food & Dining
+10372,Tom muốn mary chỉ cho anh ta cách làm pizza,Tom wanted Mary to show him how to make pizza,Food & Dining
+8891,Nướng thịt là một cách để nấu thịt .,Barbecuing is one way to cook meat.,Food & Dining
+9745,Tôi cần một ít đường để làm bánh .,I need some sugar to make a cake.,Food & Dining
 2847,Tôi đã mua một 3 ds nintendo .,I bought a Nintendo 3DS.,Gaming
-2891,Chơi roulette Nga không thực sự là một ý tưởng tốt,Playing Russian roulette isn't really a good idea,Gaming
-3835,Cô đang mong chờ được chơi tannis với anh,She was looking forward to playing table tannis with him,Gaming
+9728,Tom đã chơi game trên máy tính từ trưa,Tom's been playing computer games since noon,Gaming
+5459,Tôi nghĩ rằng những trò chơi như kẹo nghiền là một sự lãng phí thời gian,I think that games such as Candy Crush are a waste of time,Gaming
+7954,Bây giờ chúng tôi có đủ người để chơi mạt chược .,Now we have enough people to play mahjong.,Gaming
 4023,Anh ấy chơi thế giới của warcraft,He plays World of Warcraft,Gaming
 4900,Chúng tôi đã dành thời gian chơi pachinko,We passed the time playing pachinko,Gaming
+2891,Chơi roulette Nga không thực sự là một ý tưởng tốt,Playing Russian roulette isn't really a good idea,Gaming
+7958,Đừng chơi game với tôi,Don't play games with me.,Gaming
+1531,Nhân vật trò chơi video yêu thích của bạn là ai ?,Who's your favorite video game character?,Gaming
+2081,Anh ấy quá yếu để chơi game ngoài trời,He was too frail to play games outdoors,Gaming
+8753,Có người muốn chơi game,Someone wants to play games.,Gaming
 4948,Tất cả những gì tôi làm hôm nay là chơi game,All I did today was play games,Gaming
-5459,Tôi nghĩ rằng những trò chơi như kẹo nghiền là một sự lãng phí thời gian,I think that games such as Candy Crush are a waste of time,Gaming
-40,Nộp báo cáo của bạn vào ngày mai,Hand in your report by tomorrow,Learning & Educational
-43,Chúng tôi gọi giáo viên tiếng Anh của chúng tôi e . t .,We call our English teacher E.t.,Learning & Educational
-87,Không thể đến trường,It is next to impossible to go to school,Learning & Educational
-96,"Như lớp cuối cùng của bạn , điều đó phụ thuộc vào bài kiểm tra cuối cùng của bạn .","As to your final grade, that depends on your final examination.",Learning & Educational
-156,Công việc này đủ đơn giản để một đứa trẻ làm,This work is simple enough for a child to do,Learning & Educational
-196,Lớp học của chúng ta hôm nay sẽ bắt đầu lúc 3 giờ chiều,Our class today will begin at 3 p.m.,Learning & Educational
-198,Cuốn sách của bạn đã thay đổi cuộc đời tôi,Your book has changed my life,Learning & Educational
-206,Tôi đã học tiếng Pháp với tom .,I've been studying French with Tom.,Learning & Educational
-213,Bạn có thể nhớ từ đầu tiên bạn học bằng tiếng Pháp không ?,Can you remember the first word you learned in French?,Learning & Educational
-233,Hãy nói về trường học của bạn,Let's talk about your school,Learning & Educational
-19,Tôi chưa bao giờ hát hay .,I've never been good at singing.,Music
-48,Thỉnh thoảng tôi nghe cha tôi hát trong phòng tắm,I sometimes hear my father singing in the bathroom,Music
-53,Tôi đã nghe nhạc ngày hôm qua,I listened to music yesterday,Music
-171,Tôi nghĩ rằng tôi nghe thấy họ,I think I hear them,Music
-183,Radio hơi to,The radio is a bit loud,Music
-228,Radio bị hỏng,The radio is broken,Music
-297,"Hãy lắng nghe tôi , bạn nhé","Listen to me, will you?",Music
-399,Buổi hòa nhạc rock đã bị hủy vì ca sĩ ngã bệnh .,The rock concert was called off because the singer fell ill.,Music
+2217,Ông đã vượt lên và vượt ra ngoài nhiệm vụ,He went above and beyond the call of duty,Gaming
+3835,Cô đang mong chờ được chơi tannis với anh,She was looking forward to playing table tannis with him,Gaming
+915,Chính phủ đã được cải cách giáo dục .,The government has been reforming education.,Learning & Educational
+1910,Tôi thực sự thất vọng khi phát hiện ra rằng mình đã không vượt qua kỳ thi .,I was really disappointed when I found out that I hadn't passed the exam.,Learning & Educational
+5056,Giáo viên của tom bảo anh ta chú ý hơn đến dấu câu của mình .,Tom's teacher told him to pay more attention to his punctuation.,Learning & Educational
+4204,Tôi phải học tiếng nhật,I have to study Japanese.,Learning & Educational
+5120,Bạn đã nói với tom tại sao bạn muốn học tiếng Pháp chưa ?,Have you told Tom why you want to study French?,Learning & Educational
+4425,Giáo viên bắt tôi nhắc lại câu .,The teacher made me repeat the sentence.,Learning & Educational
+9543,Bạn không cần mua cuốn sách này .,You didn't need to buy this book.,Learning & Educational
+2901,Cây bút chì tôi mất hôm qua là một cái cũ,The pencil I lost yesterday was an old one,Learning & Educational
+10104,Hôm qua bạn có học tiếng Pháp không,Did you study French yesterday?,Learning & Educational
+10149,"Nếu không có những cuốn sách hay , cuộc sống của chúng ta sẽ nghèo hơn nhiều","If it were not for great books, our lives would be much the poorer",Learning & Educational
+3895,Mọi thứ ở trường thế nào,How are things at school?,Learning & Educational
+6059,Chúng tôi sẽ áp dụng phương pháp của bạn tại trường của chúng tôi,We will adopt your method at our school,Learning & Educational
+4691,Bạn đã học tiếng Pháp từ ai ?,Who did you learn French from?,Learning & Educational
+8379,Tôi có một vài cuốn sách tiếng anh,I have a few English books,Learning & Educational
+9949,Tom có thường xuyên học bài tiếng Pháp không ?,How often does Tom take French lessons?,Learning & Educational
+5427,"Tôi không chắc , nhưng tôi nghĩ tôi muốn trở thành một giáo viên .","I am not sure, but I think I want to be a teacher.",Learning & Educational
+7814,Trường đại học của tôi có ký túc xá .,My college has dormitories.,Learning & Educational
+10823,Tất cả chúng ta sẽ quay trở lại thư viện,We're all going back to the library,Learning & Educational
+6779,Tôi quyết định không học tiếng Pháp,I decided not to study French,Learning & Educational
+2932,Tom rõ ràng là một giáo viên tốt,Tom is obviously a good teacher.,Learning & Educational
+5187,Tom không thể đưa nó cho bạn bây giờ,Tom can't give it to you now,Music
+6686,Họ la nhưng ca si .,They are singers.,Music
+4776,Tôi rất mong được gặp anh ấy,I'm looking forward to seeing him,Music
+3627,Họ bắt đầu tất cả cùng một lúc .,They started all at once.,Music
+5752,Tom và mary đã có chỗ ngồi thực sự tốt tại buổi hòa nhạc tối qua,Tom and Mary had really good seats at the concert last night,Music
+601,Một bộ tứ dây đang diễn tập ở phòng bên cạnh,A string quartet is rehearsing in the next room,Music
+6557,Đã lâu lắm rồi tôi mới thấy anh .,It has been a long time since I saw him.,Music
+9618,Cô ấy có chơi piano không,Does she play piano?,Music
+8717,Chúng ta phải khiến anh ấy thực hiện dự án đó một cách nghiêm túc .,We have got to get him to take that project seriously.,Music
+10843,Họ đã phát hành tom,They've released Tom,Music
+8094,Tom hy vọng sẽ gặp bạn vào tháng mười .,Tom hopes to see you in October.,Music
+968,Tay trống yêu thích của bạn là ai ?,Who's your favorite drummer?,Music
+4894,Tôi ước tôi đã mua một vé buổi hòa nhạc .,I wish I had bought a concert ticket.,Music
+2651,Radio đang bật .,The radio is on.,Music
+9153,Tom nghĩ rằng anh ấy biết nhạc sĩ yêu thích của mary là ai .,Tom thinks he knows who Mary's favorite musician is.,Music
+2823,Bạn sẽ cho phép tôi chơi piano ?,Will you allow me to play the piano?,Music
 424,Bạn là nhóm ủng hộ .,You are the backing group.,Music
-457,Chúng tôi có những điệu nhảy vào tối thứ bảy,We have dances on Saturday evening,Music
-5,Anh ta chẳng hơn gì một kẻ hèn nhát .,He is nothing more than a coward.,News & Social Concern
-7,Chúng tôi bị kẹt xe trên đường,We were caught in a traffic jam on the way,News & Social Concern
-11,Chúng tôi sẽ không sa thải bạn,We're not going to fire you,News & Social Concern
-13,Tôi đã nói để hỗ trợ này trước đây .,I've spoken in support of this before.,News & Social Concern
-14,Bạn an toàn không ?,Are you safe?,News & Social Concern
-15,Con người là động vật duy nhất có thể nói .,Man is the only animal that can speak.,News & Social Concern
-30,Đứa trẻ được giải cứu khỏi ngôi nhà đang cháy,The child was rescued from a burning house,News & Social Concern
-38,Tom chưa bao giờ gặp nguy hiểm thực sự,Tom was never in any real danger,News & Social Concern
-46,Tom không gặp nguy hiểm,Tom's not in any danger,News & Social Concern
-52,Bạn đang xem trọng lượng của bạn ?,Are you watching your weight?,News & Social Concern
-3,Anh đứng cách xa nhau .,He stood with his feet apart.,Other Hobbies
-25,Ai muốn cái này,Who wants this?,Other Hobbies
+19,Tôi chưa bao giờ hát hay .,I've never been good at singing.,Music
+2767,Ông là một nhạc sĩ nghèo,He was a poor musician.,Music
+9526,Anh ấy không phải là người thích nghe nhạc jazz .,He is not the sort of person who likes to listen to jazz.,Music
+9361,Tom đã quyết tâm nói điều gì đó,Tom was determined to say something.,News & Social Concern
+5919,Ai đó để chiếc ô của họ trong hội trường,Someone left their umbrella in the hall,News & Social Concern
+408,Họ không thể ngăn chúng tôi .,They cannot stop us.,News & Social Concern
+153,Kyoto là thủ đô cũ của Nhật bản,Kyoto was the former capital of Japan,News & Social Concern
+2049,Tác phẩm mới nhất của ông được trưng bày tạm thời .,His latest works are on temporary display.,News & Social Concern
+8429,Bức thư không cho biết cô sẽ đến Tokyo lúc mấy giờ,The letter does not say what time she will come up to Tokyo,News & Social Concern
+8270,"Khi gặp nguy hiểm , họ chạy trốn","When they are in danger, they run away",News & Social Concern
+6872,Bạn thật dũng cảm khi đi vào ngôi nhà đang cháy,It was brave of you to go into the burning house,News & Social Concern
+3859,Tom là một người đàn ông dũng cảm,Tom is a brave man.,News & Social Concern
+4095,Tom đeo một số găng tay cao su để anh ấy không để lại dấu vân tay .,Tom put on some rubber gloves so he wouldn't leave fingerprints.,News & Social Concern
+2379,Nhân chứng đã tuyên thệ nhậm chức ?,Has the witness been sworn in?,News & Social Concern
+5672,Chúng tôi có một cánh cửa giữa các văn phòng của chúng tôi,We have a door between our offices,News & Social Concern
+1397,Tình hình rất nghiêm trọng,The situation is very serious.,News & Social Concern
+6175,Tom đã không nhận được tin tức rất tốt,Tom didn't take the news very well,News & Social Concern
+386,Tôi đã nhập tên của tom vào danh sách ứng cử viên,I entered Tom's name on the list of candidates,News & Social Concern
+9579,Bạn sẽ phải lên tiếng .,You'll have to speak up.,News & Social Concern
+10508,Chúng ta phải dừng tom,We have to stop Tom.,News & Social Concern
+6072,Chính tôi là người đã giết chết kennedy,It was me who killed Kennedy,News & Social Concern
+4177,Anh ta mắc nợ,He ran into debt,News & Social Concern
+1622,Chúng tôi đợi tại hiện trường vụ tai nạn cho đến khi cảnh sát đến .,We waited at the scene of the accident till the police came.,News & Social Concern
+8797,Chuông nhà thờ dùng để reo lúc ba .,The church bell used to ring at three.,Other Hobbies
+9554,Tom đề nghị rằng những gì mary đã làm là cố ý .,Tom suggested that what Mary did was intentional.,Other Hobbies
+3556,Tom trung thành với mary .,Tom is faithful to Mary.,Other Hobbies
+5945,Những tiếng chuông bắt đầu vang lên .,The bells started to ring.,Other Hobbies
+5015,Bạn có muốn tôi giúp bạn không,Would you like me to help you?,Other Hobbies
+4079,Anh ấy bắt tay hàng ngàn người,He shook thousands of hands,Other Hobbies
+4574,Tôi muốn bạn ngừng theo dõi tôi,I want you to stop following me,Other Hobbies
+3566,Bạn nên thề trên kinh thánh,You should swear on the Bible.,Other Hobbies
+3365,Tom không thích nó khi mary nứt đốt ngón tay .,Tom doesn't like it when Mary cracks her knuckles.,Other Hobbies
 79,Đó là một nhà thờ gothic điển hình .,It is a typical Gothic church.,Other Hobbies
 572,Tôi sẽ cho bạn ba mươi đô la .,I'll give you thirty dollars.,Other Hobbies
+25,Ai muốn cái này,Who wants this?,Other Hobbies
 2557,Tom thường trả tiền cho mọi thứ bằng tiền mặt .,Tom usually pays for everything in cash.,Other Hobbies
-2622,Linh mục tập hợp giáo dân trong nhà thờ,The priest assembled the parishioners in the church,Other Hobbies
-3365,Tom không thích nó khi mary nứt đốt ngón tay .,Tom doesn't like it when Mary cracks her knuckles.,Other Hobbies
-3556,Tom trung thành với mary .,Tom is faithful to Mary.,Other Hobbies
-3566,Bạn nên thề trên kinh thánh,You should swear on the Bible.,Other Hobbies
-4079,Anh ấy bắt tay hàng ngàn người,He shook thousands of hands,Other Hobbies
-101,Tom và tôi không hợp nhau .,Tom and I don't get along with each other.,Relationships
-176,Tom và mary sẽ kết hôn vào cuối tuần tới .,Tom and Mary are getting married next weekend.,Relationships
-209,Tom nói rằng anh ấy muốn dành phần còn lại của cuộc đời mình với bạn,Tom says he wants to spend the rest of his life with you,Relationships
-313,Tôi đã nói chuyện với vợ cũ của tom về lý do họ ly hôn,I talked to Tom's ex-wife about why they got divorced,Relationships
-401,Tôi muốn họ là bạn của bạn,I want them to be your friends.,Relationships
-491,Chị gái của họ vẫn chưa kết hôn .,Their oldest sister still hasn't gotten married.,Relationships
-611,"Tôi không thể không cảm thấy rằng nếu chúng tôi hiểu nhau hơn , chúng tôi đã là bạn","I can't help but feel that if we had gotten to know each other better, we'd have been friends",Relationships
-621,Tôi muốn bạn nói cho tôi sự thật về tom,I want you to tell me the truth about Tom,Relationships
-642,Tom chọn sống với bố thay vì mẹ .,Tom chose to live with his father instead of his mother.,Relationships
-654,Tom và mary là họ hàng gần .,Tom and Mary are close relatives.,Relationships
-47,Bạn không phải là người duy nhất sử dụng máy tính này,You're not the only one who uses this computer,Science & Technology
+9467,Bạn có muốn mua cái này hay không ?,Do you want to buy this or not?,Other Hobbies
+5957,Ông tin vào sức mạnh tối cao của luật pháp,He believed in the Supreme power of the law,Other Hobbies
+9504,Bạn có thể giúp chúng tôi ?,Could you help us?,Other Hobbies
+7755,Ai mua,Who's buying?,Other Hobbies
+11042,Tôi có thể giúp gì cho bạn ?,How may I help you?,Other Hobbies
+4783,"Cô nợ anh ta rất nhiều tiền , nhưng có lẽ cô sẽ không thể trả lại .","She owes him a lot of money, but she probably won't be able to pay it back.",Other Hobbies
+8871,Chúng tôi đến thăm một nhà thờ nhỏ hàng trăm năm tuổi trên đường công viên,"We visited a small, hundred year-old church on Park Street",Other Hobbies
+7258,Tom và mary chưa bao giờ gặp nhau,Tom and Mary have never met,Relationships
+8272,Tom và mary gần đây đã bắt đầu hẹn hò .,Tom and Mary have recently started dating.,Relationships
+1305,Tom muốn kết hôn với mary,Tom wants to be married to Mary,Relationships
+2472,Cô ấy và tôi không có gì chung .,She and I have nothing in common.,Relationships
+2668,Tom và mary ôm,Tom and Mary hugged,Relationships
+4674,Cha mẹ của tom rất ủng hộ anh ấy .,Tom's parents were very supportive of him.,Relationships
+10906,Tom và mary quyết định ly hôn,Tom and Mary decided to get divorced,Relationships
+7014,Cặp vợ chồng có một đứa con trai,The couple had a son,Relationships
+5011,Tom là một người bạn cũ,Tom is an old friend,Relationships
+5238,"Sau cái chết của cha mình , john đã dành thời gian ở quán bar","After his father's death, John took to spending his time in bars",Relationships
+5404,Tôi là con gái của tom .,I'm Tom's daughter.,Relationships
+2938,Làm thế nào bạn biết đến nhau ?,How did you come to know one another?,Relationships
+10898,Tom không muốn kết hôn cho đến khi anh ta ở tuổi ba mươi .,Tom doesn't want to get married until he's in his thirties.,Relationships
+10293,Tom và mary đã ly hôn khoảng ba năm trước,Tom and Mary got divorced about three years ago,Relationships
+8530,Bố của cô dâu xuất hiện muộn trong lễ cưới .,The bride's father showed up late for the wedding ceremony.,Relationships
+10212,Tom và mary yêu trẻ con của họ,Tom and Mary love their kids,Relationships
+6831,Một cậu bé mười bảy thường cao bằng cha mình .,A boy of seventeen is often as tall as his father.,Relationships
+7229,Chúng tôi yêu bạn rất nhiều .,We love you so much.,Relationships
+7741,Jane sẽ kết hôn vào tháng tới .,Jane is to be married next month.,Relationships
+9198,Tom và mary trở thành bạn thân,Tom and Mary became best friends,Relationships
+4369,Hợp đồng kim loại khi được làm mát,Metal contracts when cooled,Science & Technology
+2806,Tom không muốn có ipad . anh ta muốn một thiết bị cầm tay hỗ trợ flash,Tom doesn't want an Ipad. He wants a portable device that supports Flash,Science & Technology
 139,Nhà vật lý đã nhận thức được mối nguy hiểm tiềm tàng của phản ứng tổng hợp hạt nhân .,The physicist was aware of the potential danger of nuclear fusion.,Science & Technology
-682,Anh cải tiến thiết bị .,He improved the device.,Science & Technology
-903,"Nếu không có máy tính , cuộc sống của chúng ta sẽ bất tiện biết bao !","If it were not for the computer, how inconvenient our lives would be!",Science & Technology
-990,Phần mềm chỉnh sửa hình ảnh yêu thích của bạn là gì ?,What's your favorite image editing software?,Science & Technology
-1044,Máy tính của tôi bị hỏng ngày hôm qua,My computer was down yesterday,Science & Technology
-1078,Đồng dẫn điện tốt,Copper conducts electricity well,Science & Technology
+8739,Tom không sẵn lòng trả số tiền lớn đó cho máy tính cũ .,Tom was unwilling to pay that much money for a secondhand computer.,Science & Technology
 1327,Bạn có thể tải về hướng dẫn sử dụng cho bộ trao đổi nhiệt tại đây,You can download the instruction manual for the heat exchanger here,Science & Technology
-1414,Máy tính cá nhân rất hữu ích .,Personal computers are very useful.,Science & Technology
+4959,Người ta nói rằng không có sự sống trên sao hỏa .,It is said that there is no life on Mars.,Science & Technology
+8807,"Ứng dụng mới này tuyên bố là thân thiện với người dùng . tốt , nó không phải là .","This new application claims to be user friendly. Well, it isn't.",Science & Technology
+10913,Tôi không bao giờ cho mượn ổ USB của mình cho người khác .,I never lend my USB drive to others.,Science & Technology
+10445,Dữ liệu hoàn toàn vô dụng,The data was completely useless,Science & Technology
+3790,Tôi nghĩ rằng rất khó có khả năng tom sẽ quan tâm đến việc mua máy nghe nhạc mp3 cũ của bạn,I think it's highly unlikely that Tom would be interested in buying your old MP3 player,Science & Technology
+4097,Chúng ta cần một chuyên gia về công nghệ xanh .,We need an expert in green technology.,Science & Technology
+903,"Nếu không có máy tính , cuộc sống của chúng ta sẽ bất tiện biết bao !","If it were not for the computer, how inconvenient our lives would be!",Science & Technology
+1583,Trình duyệt mà bạn đang sử dụng ?,Which browser are you using?,Science & Technology
+6595,Một trong những động cơ của máy bay bị cắt,One of the aircraft's engines cut out,Science & Technology
+3982,Khí hậu ẩm và ấm .,The climate is moist and warm.,Science & Technology
+4672,Máy bay đó sử dụng công nghệ mới .,That plane makes use of new technology.,Science & Technology
+2334,Máy tính xách tay tốt hơn máy tính để bàn,A laptop is better than a desktop,Science & Technology
+3211,Tôi bán máy tính,I sell computers,Science & Technology
 1548,Có thiệt hại cho máy tính .,There was damage to the computer.,Science & Technology
-17,Chúng tôi đã mất rất nhiều thời gian,We lost a lot of time,Sports
-18,Bạn muốn tom tốt chứ ?,"You want Tom to be good, don't you?",Sports
-36,Bố tôi thích quần vợt .,My father likes tennis.,Sports
-65,Tom và mary chiến đấu tất cả các thời gian .,Tom and Mary fight all the time.,Sports
-70,Lucy thích chơi tennis,Lucy likes playing tennis,Sports
-90,Tom không biết tại sao mary và john lại đánh nhau .,Tom doesn't know why Mary and John are fighting.,Sports
-91,Tom và mary dường như luôn chiến đấu,Tom and Mary seem to be fighting all the time.,Sports
-99,Jefferson chưa sẵn sàng từ bỏ kế hoạch của mình .,Jefferson was not ready to give up his plan.,Sports
-104,Bạn không thể giành được điều này,You can't win this,Sports
+7617,Clive muốn trở thành một kỹ sư điện tử,Clive wants to be an electronic engineer,Science & Technology
+2313,Tom luôn luôn ngứa cho một cuộc chiến,Tom is always itching for a fight,Sports
+318,Chúng tôi không có gì .,We've got nothing.,Sports
+6151,Bóng đá là môn thể thao phổ biến nhất,Soccer is the most popular of all sports,Sports
 124,Tôi nghĩ rằng tom có vấn đề nghiêm trọng ở nhà .,I think Tom has serious problems at home.,Sports
-44,"Tôi còn ba tuần nữa cho đến khi khởi hành , và cho đến nay tôi vẫn chưa có visa","I have three weeks left until my departure, and so far I still don't have a visa",Travel & Adventure
-127,Không có gì thú vị hơn lặn biển,There is nothing more exciting than scuba diving,Travel & Adventure
-155,Hàng ngàn người nước ngoài đến Nhật bản mỗi năm,Thousands of foreigners visit Japan each year,Travel & Adventure
-168,Tôi đã trên chuyến bay 001 từ tokyo .,I was on Flight 001 from Tokyo.,Travel & Adventure
-266,Khi nào kỳ nghỉ hè của bạn bắt đầu ?,When does your summer vacation start?,Travel & Adventure
-282,Cô ấy nói với tôi rằng cô ấy sẽ đến paris vào tháng tám .,She told me that she would go to Paris in August.,Travel & Adventure
-285,Bạn đã bao giờ đi qua eo biển của magellan chưa ?,Have you ever gone through the Straits of Magellan?,Travel & Adventure
-303,Khi nào bạn trở về từ chuyến đi của bạn,When did you get back from your trip?,Travel & Adventure
-307,Tôi sẽ đến Mỹ vào ngày mai,I'm going to America tomorrow,Travel & Adventure
-353,Anh đặt hành lý xuống .,He put the luggage down.,Travel & Adventure
-232,Tôi sẽ không ngạc nhiên nếu tom bị đuổi khỏi trường .,I wouldn't be surprised if Tom got kicked out of school.,Youth & Student Life
-378,Tom được cho là ở trường,Tom is supposed to be at school.,Youth & Student Life
-1763,Ông rời trường cấp ba lúc mười bảy tuổi .,He left high school at seventeen.,Youth & Student Life
-2047,Anh tốt nghiệp một số trường đại học rink-dink ở oklahoma .,He graduated from some rinky-dink college in Oklahoma.,Youth & Student Life
-2714,Tom bỏ học cấp ba,Tom dropped out of high school.,Youth & Student Life
-2969,Tom luôn ở lại trường muộn như giáo viên cho phép .,Tom always stays at school as late as the teachers allow him to.,Youth & Student Life
+5306,Tom loạng choạng bước vào .,Tom staggered in.,Sports
+10820,Một người đàn ông lớn tuổi đang ngồi trên băng ghế,An older man was sitting on the bench,Sports
+1242,Họ đã bao giờ chơi ở Ý chưa ?,Did they ever play in Italy?,Sports
+6869,Tom đã đi đến các cuộc đua ngựa một lần vào mùa hè năm ngoái .,Tom went to the horse races once last summer.,Sports
+10434,Có bao nhiêu mùa trong một năm ?,How many seasons are there in a year?,Sports
+7355,Trò chơi hôm nay thế nào ?,How was today's game?,Sports
+2295,Đây là cây bút tốt nhất,This is the best pen.,Sports
+2589,Tom rõ ràng là buồn về điều gì đó .,Tom is clearly upset about something.,Sports
+1005,Bạn có nghĩ rằng tom là không may mắn ?,Do you think Tom is unlucky?,Sports
+2190,Tom không có vấn đề làm điều đó .,Tom should have no problem doing that.,Sports
+1129,Thật đáng tiếc rằng anh ta đã không được bầu làm đội trưởng của đội .,It is regrettable that he was not elected captain of the team.,Sports
+5311,Tôi nghĩ rằng tom có thể bị đánh bại .,I think Tom can be beaten.,Sports
+6458,Chúng tôi đã có một số quyết định để thực hiện .,We've got some decisions to make.,Sports
+10010,Là jimmy viết một lá thư ?,Is Jimmy writing a letter?,Sports
+5080,Tom lốp dễ dàng .,Tom tires easily.,Sports
+7309,Trò chơi đã bị hủy,The game was called off,Sports
+6238,Tôi không biết tom sẽ đến boston với mary .,I didn't know Tom was going to Boston with Mary.,Travel & Adventure
+9824,Đây là lần đầu tiên tôi đến thăm nước Anh,This is the first time I have visited England,Travel & Adventure
+709,Tôi không hối tiếc khi đến đây .,I don't regret coming here.,Travel & Adventure
+2910,Người đàn ông vừa trở về sau chuyến thăm châu Âu,The man had just returned from a visit to Europe,Travel & Adventure
+4773,Tôi muốn nghe tất cả về chuyến đi của bạn đến boston .,I want to hear all about your trip to Boston.,Travel & Adventure
+1405,Cậu bé mơ ước được đi thám hiểm Nam cực,The boy dreamed of going on an Antarctic expedition,Travel & Adventure
+9437,Tôi thích đi du lịch một mình,I prefer traveling on my own,Travel & Adventure
+5468,Có thể đi du lịch ở tốc độ cao như vậy ?,Is it possible to travel at such a high speed?,Travel & Adventure
+7777,Tôi có thể lấy vé máy bay ở đâu ?,Where can I pick up my airplane ticket?,Travel & Adventure
+4718,Cuối cùng tôi đã đi đến Anh vào mùa hè này .,I finally went to England this summer.,Travel & Adventure
+1210,Kỳ nghỉ đã gần kết thúc,The vacation is close to an end.,Travel & Adventure
+5428,Tôi đã đi đến hawaii trong một vài tuần,I went to Hawaii on vacation for a couple of weeks,Travel & Adventure
+8044,Bạn cần phải đi ngay bây giờ,You need to go now,Travel & Adventure
+10376,Tôi định đi . Tôi không quan tâm nếu bạn làm hay không .,I plan to go. I don't care if you do or not.,Travel & Adventure
+4328,Chúng tôi đã thực sự hy vọng mua một chiếc thuyền đánh cá .,We were really hoping to buy a fishing boat.,Travel & Adventure
+5286,Bạn đã nghĩ về thời gian nào trong năm bạn muốn đến thăm boston chưa ?,Have you thought about what time of year you want to visit Boston?,Travel & Adventure
+9608,Tại sao bạn không quay lại boston ?,Why don't you go back to Boston?,Travel & Adventure
+5923,Bạn có chấp nhận visa không,Do you accept Visa?,Travel & Adventure
+9381,Chúng tôi đã chết mệt mỏi từ chuyến đi năm giờ .,We were dead tired from the five-hour trip.,Travel & Adventure
+8666,Tôi muốn trở lại boston .,I want to be back in Boston.,Travel & Adventure
 3590,Anh trai tôi học cùng trường tôi làm,My brother goes to the same school I do,Youth & Student Life
-5765,Ngày học của tom được chia thành sáu tiết .,Tom's school day is divided into six periods.,Youth & Student Life
-5781,Cô ấy đã giúp anh trai mình làm bài tập về nhà,She assisted her brother with his homework,Youth & Student Life
+10994,Anh ta làm hỏng bài kiểm tra lái xe của mình ba lần .,He flunked his driving test three times.,Youth & Student Life
+1763,Ông rời trường cấp ba lúc mười bảy tuổi .,He left high school at seventeen.,Youth & Student Life
+9821,Cha mẹ anh đang tiết kiệm cho giáo dục đại học của mình .,His parents are saving for his college education.,Youth & Student Life
+232,Tôi sẽ không ngạc nhiên nếu tom bị đuổi khỏi trường .,I wouldn't be surprised if Tom got kicked out of school.,Youth & Student Life
+7980,Trường học không cho phép sinh viên hút thuốc trong khuôn viên trường,The school does not allow students to smoke on campus,Youth & Student Life
 5931,Tom muốn biết mary đi học trung học ở đâu,Tom wants to know where Mary went to high school,Youth & Student Life
+7039,Tom hứa với mary rằng anh sẽ gặp cô ấy sau giờ học,Tom promised Mary that he'd meet her after school,Youth & Student Life
+2714,Tom bỏ học cấp ba,Tom dropped out of high school.,Youth & Student Life
+5765,Ngày học của tom được chia thành sáu tiết .,Tom's school day is divided into six periods.,Youth & Student Life
+7917,Thật lạ khi anh ta vắng mặt ở trường .,It is strange for him to be absent from school,Youth & Student Life
+10513,Chúng tôi là sinh viên năm hai .,We're sophomores.,Youth & Student Life
+378,Tom được cho là ở trường,Tom is supposed to be at school.,Youth & Student Life
+2047,Anh tốt nghiệp một số trường đại học rink-dink ở oklahoma .,He graduated from some rinky-dink college in Oklahoma.,Youth & Student Life
+8765,Tại sao bạn nghĩ tom không ở trường hôm nay ?,Why do you think Tom wasn't at school today?,Youth & Student Life
+5952,Cô ấy thường gội đầu trước khi đến trường,She used to wash her hair before going to school,Youth & Student Life
+5781,Cô ấy đã giúp anh trai mình làm bài tập về nhà,She assisted her brother with his homework,Youth & Student Life
+8381,Anh ấy chắc chắn sẽ vượt qua kỳ thi,He is sure to pass the examination,Youth & Student Life
+10583,Em gái tôi còn quá nhỏ để đi học,My sister is too young to go to school.,Youth & Student Life
+9784,Các sinh viên có một phòng tập thể dục tuyệt vời theo ý của họ .,The students have an excellent gym at their disposal.,Youth & Student Life

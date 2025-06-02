@@ -10,17 +10,18 @@ sents = []
 
 for i in range(len(topics)):
     selected_sentences = sentences[sentences['topic_name'] == topics['topic_name'][i]]['s_id'].to_list()
+    selected_sentences = random.sample(selected_sentences, min(20, len(selected_sentences)))
     # with open(f"selected_sentences_{i}.txt", "w") as f:
     #     for s_id in selected_sentences:
     #         f.write(f"{s_id}\n")
     # for j in range(5):
-    #     for s_id in selected_sentences[:10]:
+    #     for s_id in selected_sentences:
     #         lesson_data.append({
     #             'topic_id': topics['topic_id'][i],
     #             'lesson_id': j + 1,
     #             's_id': s_id
-    #         })'
-    for s_id in selected_sentences[:10]:
+    #         })
+    for s_id in selected_sentences:
         sents.append({
             's_id': s_id,
             'viet': sentences[sentences['s_id'] == s_id]['viet'].values[0],
