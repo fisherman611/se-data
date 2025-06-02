@@ -134,7 +134,7 @@ for _, row in tqdm(sentences_df.iterrows(), total=len(sentences_df), desc="Proce
     candidate_words = [
         (idx + 1, word)
         for idx, (word, tag) in enumerate(zip(words, pos_tags))
-        if tag != "Np" and word in word_embeddings
+        if tag != "Np" and word not in stopwords and word in word_embeddings
     ]
 
     print(candidate_words)
