@@ -134,11 +134,11 @@ for _, row in tqdm(sentences_df.iterrows(), total=len(sentences_df), desc="Proce
     candidate_words = [
         (idx + 1, word)
         for idx, (word, tag) in enumerate(zip(words, pos_tags))
-        if tag != "Np" and word not in stopwords and word in word_embeddings
+        if tag != "Np" and word in word_embeddings
     ]
 
     print(candidate_words)
-    selected_words = random.sample(candidate_words, min(2, len(candidate_words)))
+    selected_words = random.sample(candidate_words, min(5, len(candidate_words)))
     
     for idx, word in selected_words:
         # Replace underscore with space for display and translation
